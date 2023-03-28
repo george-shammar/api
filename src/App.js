@@ -5,3 +5,5 @@ function App() {
     <div>hELLO aPP</div>
   )
 }
+
+export default App;
